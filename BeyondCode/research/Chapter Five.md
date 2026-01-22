@@ -58,7 +58,7 @@ Trust + Empathy = Global Reach.
 Ecosystem Leadership: The n8n Live Revolution
 
 By 2022, Soft Pyramid wasn’t just building systems — it was building communities.
-Fakhar’s journey as an n8n Verified Creator became a catalyst for something much larger: a regional wave of automation education.
+Fakhar’s journey as an n8n Creator & Ambassador became a catalyst for something much larger: a regional wave of automation education.
 
 He launched n8n Live Lahore, an event series that brought together developers, founders, students, and tech enthusiasts.
 The concept soon expanded — n8n Live Islamabad, n8n Live Karachi, and eventually n8n Live Dallas in the United States.

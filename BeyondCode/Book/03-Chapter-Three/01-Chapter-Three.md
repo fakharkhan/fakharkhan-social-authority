@@ -34,7 +34,7 @@ By connecting platforms like Notion, Slack, Google Sheets, and CRMs through n8n,
 
 ### n8n and the Ecosystem of Innovation
 
-In 2021, Fakhar became a verified n8n Creator, recognized for his advanced public workflows that combined OpenAI, Firecrawl, and data integration tools. His reputation grew in global automation circles as he demonstrated how AI could act as a co-worker rather than a black box.
+In 2021, Fakhar became an n8n Creator & Ambassador, recognized for his advanced public workflows that combined OpenAI, Firecrawl, and data integration tools. His reputation grew in global automation circles as he demonstrated how AI could act as a co-worker rather than a black box.
 
 Soft Pyramid's workshops—n8n Live Lahore, n8n Live Islamabad, and later n8n Live Dallas—became hubs of collaboration where entrepreneurs, engineers, and students discovered how automation could amplify human creativity.
 

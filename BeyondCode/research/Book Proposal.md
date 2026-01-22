@@ -12,7 +12,7 @@ Author:
 
 Fakhar Zaman Khan
 Founder & CEO, Soft Pyramid LLC
-AI Automation Strategist | n8n Verified Creator | Global Community Builder
+AI Automation Strategist | n8n Creator & Ambassador | Global Community Builder
 
 ⸻
 
@@ -69,7 +69,7 @@ He has mentored hundreds of developers and entrepreneurs, built automation ecosy
 
 Current Roles:
 	•	CEO, Soft Pyramid LLC
-	•	n8n Verified Creator
+	•	n8n Creator & Ambassador
 	•	AI Automation Specialist (Upwork Top Consultant)
 	•	Community Host: n8n Live Lahore, Islamabad, Dallas
 
