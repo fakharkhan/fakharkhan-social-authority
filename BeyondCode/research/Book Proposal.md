@@ -70,7 +70,7 @@ He has mentored hundreds of developers and entrepreneurs, built automation ecosy
 Current Roles:
 	•	CEO, Soft Pyramid LLC
 	•	n8n Creator & Ambassador
-	•	AI Automation Specialist (Upwork Top Consultant)
+	•	[AI Automation Specialist](https://softpyramid.dev/ai-agent-consultation)
 	•	Community Host: n8n Live Lahore, Islamabad, Dallas
 
 Author Presence:

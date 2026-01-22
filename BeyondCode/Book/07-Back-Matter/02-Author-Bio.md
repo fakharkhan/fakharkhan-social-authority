@@ -14,7 +14,7 @@ His philosophy—that true innovation begins not in lines of code, but in lines 
 - CEO, Soft Pyramid LLC
 - [n8n Creator](https://creators.n8n.io/fakharkhan) & [Ambassador](https://n8n.notion.site/Fakhar-Zaman-Khan-2f05b6e0c94f800a81b2cd91df9e593b)
 - Community Builder for [Laravel Live Pakistan](https://www.laravellive.pk)
-- AI Automation Specialist (Upwork Top Consultant)
+- [AI Automation Specialist](https://softpyramid.dev/ai-agent-consultation)
 - Community Host: n8n Live Lahore, Islamabad, Dallas
 
 **Connect:**
