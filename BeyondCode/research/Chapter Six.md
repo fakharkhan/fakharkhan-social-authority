@@ -3,7 +3,7 @@ Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid
 
 This closing chapter acts as both a manifesto and a mirror — a look at how Soft Pyramid envisions the next decade of human-AI collaboration and what leadership must become in that world.
 
-⸻
+---
 
 Chapter Six — Continuum: The Future of Human-AI Leadership
 
@@ -18,7 +18,7 @@ The same values that had guided its first chapter — empathy, trust, learning �
 “Automation was phase one,” Fakhar says.
 “Augmentation is the continuum.”
 
-⸻
+---
 
 From Intelligence to Co-Intelligence
 
@@ -34,7 +34,7 @@ The result isn’t substitution, but synergy — a partnership where cognition a
 Fakhar calls this the “Human Continuum.”
 It’s the bridge between the logic of machines and the imagination of leaders.
 
-⸻
+---
 
 Leadership as an Evolving Interface
 
@@ -49,7 +49,7 @@ a system that turns every decision into a conversation between insight and intui
 “Leaders won’t just direct workflows,” Fakhar says,
 “they’ll design feedback loops — human, ethical, continuous.”
 
-⸻
+---
 
 Ethics: The New Architecture
 
@@ -61,7 +61,7 @@ Soft Pyramid’s philosophy anchors itself in three ethical commitments:
 
 This trinity forms what the company calls its Ethical Architecture Framework, ensuring that every system — from MedSpa agents to data orchestration dashboards — honors the dignity of the human it serves.
 
-⸻
+---
 
 The Education Imperative
 
@@ -78,7 +78,7 @@ The goal: to nurture a new generation of human-AI leaders who measure progress n
 “Tomorrow’s leaders won’t ask, ‘What can AI do for me?’” Fakhar says.
 “They’ll ask, ‘What can AI help humanity become?’”
 
-⸻
+---
 
 The Global Continuum
 
@@ -93,7 +93,7 @@ Together, they form a living continuum — a distributed architecture of minds u
 The company’s goal for 2030 is clear:
 to connect 10,000 innovators across continents under one principle — Beyond Code, Beyond Borders.
 
-⸻
+---
 
 Philosophy of the Continuum
 
@@ -113,7 +113,7 @@ Fakhar summarizes it as the three continuums of leadership:
 “Technology without reflection,” he writes,
 “is acceleration without direction.”
 
-⸻
+---
 
 Legacy: From Soft Pyramid to Shared Pyramid
 
@@ -125,7 +125,7 @@ In 2035, he imagines Soft Pyramid no longer as a company, but as a shared framew
 It’s a vision where leadership is no longer a title, but a trait of participation.
 Where every collaborator becomes a node in the continuum of innovation.
 
-⸻
+---
 
 The Infinite Loop of Learning
 
@@ -141,7 +141,7 @@ It’s the loop that defines Soft Pyramid’s philosophy — to keep building, b
 “is not to teach machines how to think like humans.
 It’s to remind humans how to think beyond machines.”
 
-⸻
+---
 
 Epilogue — Beyond Code
 
@@ -157,6 +157,5 @@ Beyond Code was never just a book title.
 It’s a declaration of what leadership must become —
 human, humble, and infinite.
 
-⸻
+---
 
-Would you like me to now prepare a complete book structure outline (chapters, key quotes, visuals, and back-cover synopsis) — ready for publishing or pitch submission to editors and agents?

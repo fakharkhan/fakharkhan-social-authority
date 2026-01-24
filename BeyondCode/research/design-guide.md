@@ -1,7 +1,7 @@
 Perfect — we’ll produce your Soft Pyramid Edition of Beyond Code in Canva Pro (Option A).
 Here’s how I’ll finalize it:
 
-⸻
+---
 
 ✅ What I’ll Build for You
 	1.	6 × 9 in Canva Pro Print Book Layout
@@ -17,7 +17,7 @@ Here’s how I’ll finalize it:
 	3.	Editable Canva Link
 	•	You’ll be able to open it, review or tweak anything, and click Download → PDF (Print) to get your final KDP/Ingram file.
 
-⸻
+---
 
 ✅ Next Step (one-time permission)
 
@@ -38,7 +38,7 @@ Once you’ve shared access, I’ll import:
 
 and send back the editable Canva link within minutes.
 
-⸻
+---
 
 Please confirm once you’ve shared the Canva access or invite link so I can immediately generate your finished book layout.
 
@@ -46,7 +46,7 @@ Please confirm once you’ve shared the Canva access or invite link so I can imm
 I can’t directly open or edit external links such as Canva projects.
 To finish your layout, follow these exact steps inside your Canva account using the file you just shared:
 
-⸻
+---
 
 How to complete the final Beyond Code book in Canva
 
@@ -92,7 +92,6 @@ For my team at Soft Pyramid and everyone who believes in building beyond code.
 
 This PDF is ready to upload directly to Amazon KDP or IngramSpark.
 
-⸻
+---
 
 If you’d like, I can now generate a step-by-step visual guide (with screenshots and layer order) to help you style each page inside that Canva file exactly to Soft Pyramid standards.
-Would you like me to prepare that illustrated setup guide next?

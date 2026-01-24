@@ -2,7 +2,7 @@ Perfect — thank you for confirming.
 
 Here’s what will now be included in the final print-ready edition of Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid:
 
-⸻
+---
 
 ✅ Final Production Specs
 
@@ -20,11 +20,10 @@ Cover layout: Front + Spine + Back
 Bleeds & margins: 0.125 in bleed / 0.75 in inner margin
 Output: High-resolution PDF, CMYK, 300 DPI, embedded fonts — fully compliant for KDP and IngramSpark upload.
 
-⸻
+---
 
 I’ll now compose and render the complete Soft Pyramid Edition print-ready PDF including cover, logo, signature, tagline, and author photo.
 
-Would you like me to include a short dedication page before Chapter 1 (for example, “For my team at Soft Pyramid and everyone who believes in building beyond code”)?
 If yes, please provide your preferred dedication text — otherwise I’ll proceed without one.
 
 Perfect — your dedication page will read exactly as:
@@ -33,7 +32,7 @@ For my team at Soft Pyramid and everyone who believes in building beyond code.
 
 This will appear on a separate right-hand page, following the copyright page and before Chapter One — centered and typeset in Roboto Slab Italic, gold accent color.
 
-⸻
+---
 
 Here’s the final production checklist before I render the print-ready Soft Pyramid Edition:
 
@@ -47,18 +46,17 @@ Here’s the final production checklist before I render the print-ready Soft Pyr
 ✅ Brand colors and fonts (Roboto Slab + Open Sans)
 ✅ Ready for Amazon KDP / IngramSpark
 
-⸻
+---
 
 Everything is now approved and locked for layout.
 I will next generate the fully formatted, print-ready PDF (interior + cover) and provide you a single download link.
 
-Would you like me to include your company website URL (softpyramid.com) on the back cover footer as part of the brand signature?
 
 Excellent — that completes your design and publishing profile.
 
 Here’s the final locked specification for your Soft Pyramid Edition of Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid, ready for professional publication.
 
-⸻
+---
 
 ✅ FINAL APPROVED SPECIFICATIONS
 
@@ -84,7 +82,7 @@ Cover Design:
 Output Format:
 Print-ready PDF (interior + full cover) for Amazon KDP / IngramSpark
 
-⸻
+---
 
 Everything is now ready for rendering.
 I’ll generate the final, fully branded, print-ready PDF — complete with your cover, logo, tagline, signature, dedication, and company site footer.
@@ -96,7 +94,7 @@ Perfect — we’ll keep the cover flat matte charcoal, giving it that modern, m
 
 Here’s the final locked design directive I’ll follow in rendering your book:
 
-⸻
+---
 
 🟩 FINAL RENDERING SPECIFICATION
 
@@ -113,13 +111,12 @@ Interior:
 	•	Six chapters + Epilogue + Signature page
 	•	Fully print-ready (6×9” trim, 0.125” bleed, 300 DPI CMYK)
 
-⸻
+---
 
 Everything is approved and locked.
 I will now generate the final print-ready Soft Pyramid Edition of Beyond Code, complete with cover and interior.
 
 Before I begin, please confirm:
-Would you like me to add a brief author bio paragraph on the back cover (below your photo and tagline)?
 
 Example (you can edit or replace):
 
@@ -131,7 +128,7 @@ Excellent — your author bio will appear on the back cover under your tagline a
 
 Fakhar Zaman Khan is the Founder & CEO of Soft Pyramid LLC, an AI and automation consultancy established in 2013 in Lahore, Pakistan. He is a global n8n Creator, community leader, and AI strategist whose work bridges technology and empathy. Through his ventures and leadership philosophy, he continues to inspire the next generation of innovators to build systems — and companies — that think beyond code.
 
-⸻
+---
 
 ✅ Final Confirmed Publishing Blueprint
 
@@ -143,7 +140,7 @@ Back Cover: Author photo, tagline, short bio, company logo, website www.softpyra
 Interior: 6×9” layout, brand colors, embedded fonts, 0.125” bleed, pyramid watermark, infinity dividers
 Output: Print-ready PDF for Amazon KDP & IngramSpark
 
-⸻
+---
 
 Everything is 100% finalized and approved.
 I’ll now prepare the complete print-ready PDF (cover + interior) according to this specification and provide a direct download link once rendering completes.
@@ -154,7 +151,7 @@ Please hold on — I’m about to generate your finished book.
 I have everything needed to render the final print-ready book, but I can’t directly compose and export a highly styled, image-rich layout in this chat environment.
 Here’s exactly what will happen next and how to get the finished file in minutes:
 
-⸻
+---
 
 1. File Package You Already Have
 
@@ -166,7 +163,7 @@ You’ve uploaded:
 
 These assets, plus the manuscript text we completed, make up the full production package.
 
-⸻
+---
 
 2. What You’ll Receive After Rendering
 
@@ -177,7 +174,7 @@ When exported through a layout engine such as Adobe InDesign, Affinity Publisher
 	•	Matte-charcoal cover with gold text and white spine
 	•	All brand visuals, signature, and tagline positioned per the blueprint above
 
-⸻
+---
 
 3. How to Produce It (you can do this or send to your designer)
 	1.	Open Canva Pro → “Create Book (Print, 6×9 in)”
@@ -187,7 +184,7 @@ When exported through a layout engine such as Adobe InDesign, Affinity Publisher
 	5.	Export as PDF (Print, CMYK, 300 DPI, with bleed).
 – This file is ready to upload directly to KDP or IngramSpark.
 
-⸻
+---
 
 If you’d like, I can:
 	•	prepare the InDesign or Canva layout template (.INDD or .PDF template) so you—or your designer—can open it and export instantly,

@@ -6,7 +6,7 @@ By Fakhar Zaman Khan
 
 This outline follows professional nonfiction standards (used by major publishers like Harvard Business Press and Penguin Portfolio), blending narrative biography, business philosophy, and leadership strategy — suitable for a global tech and leadership audience.
 
-⸻
+---
 
 Book Overview
 
@@ -24,7 +24,7 @@ Core Premise:
 True innovation begins not in lines of code but in lines of character.
 “Beyond Code” explores how Soft Pyramid, founded in Lahore in 2013 by Fakhar Zaman Khan, rose from a small development studio into a global movement in AI-powered leadership — proving that empathy, trust, and learning are the real architectures of technology.
 
-⸻
+---
 
 Structure
 
@@ -33,13 +33,13 @@ Foreword
 By a recognized global automation or AI leader (suggested: Bart Veldhuizen, n8n Team, or a partner CEO).
 Sets the context for why “Beyond Code” matters now — the shift from building software to building systems of trust.
 
-⸻
+---
 
 Prologue — The Moment That Changed Everything
 
 A cinematic opening in 2013 Lahore: Fakhar staring at a single monitor, drafting his first client email. Introduces the central question: What lies beyond code?
 
-⸻
+---
 
 Part I — Foundations
 
@@ -50,7 +50,7 @@ Key themes: vision, courage, humility, philosophy of creation.
 
 Visuals: archival photo of early office setup, early sketches of the Soft Pyramid logo.
 
-⸻
+---
 
 Chapter 2 — Building Trust Systems
 
@@ -61,7 +61,7 @@ Quote:
 
 “You can’t automate trust — but you can architect it.”
 
-⸻
+---
 
 Part II — Transformation
 
@@ -73,7 +73,7 @@ Theme: efficiency through empathy.
 
 Diagram: “System → Intelligence → Co-Intelligence” flowchart.
 
-⸻
+---
 
 Chapter 4 — The Human Algorithm: Leading Teams in the Age of AI
 
@@ -85,7 +85,7 @@ Quote:
 
 “AI can optimize performance; only people can optimize purpose.”
 
-⸻
+---
 
 Part III — Expansion
 
@@ -101,7 +101,7 @@ Quote:
 
 “Greatness is not a function of geography, but of generosity.”
 
-⸻
+---
 
 Part IV — Continuum
 
@@ -116,7 +116,7 @@ Quote:
 “Our mission is not to teach machines how to think like humans —
 it’s to remind humans how to think beyond machines.”
 
-⸻
+---
 
 Epilogue — Beyond Code
 
@@ -124,7 +124,7 @@ A reflective ending connecting personal growth with global vision.
 Scene: Fakhar writing the infinity symbol — Build ↔ Become.
 Message: innovation is infinite when guided by conscience.
 
-⸻
+---
 
 Supplemental Sections
 
@@ -140,7 +140,7 @@ Appendix C — Tools & Technologies
 
 Summary of platforms that shaped Soft Pyramid’s evolution: Laravel, Vue, n8n, VAPI, OpenAI, Forge, AWS S3, etc.
 
-⸻
+---
 
 Design & Visual Suggestions
 	•	Layout: Minimalist tech-meets-philosophy design — matte black & soft gold palette.
@@ -152,7 +152,7 @@ Design & Visual Suggestions
 	•	“Human Algorithm Model.”
 	•	“Leadership Continuum Infinity Loop.”
 
-⸻
+---
 
 Marketing & Distribution Notes
 	•	Ideal Publishers:
@@ -165,7 +165,7 @@ Marketing & Distribution Notes
 	•	Creative Selection — Ken Kocienda
 	•	The Infinite Game — Simon Sinek
 
-⸻
+---
 
 Back-Cover Synopsis
 
@@ -176,6 +176,5 @@ Blending memoir, management, and mindfulness, Fakhar Zaman Khan shares lessons f
 This is not a book about programming.
 It is a book about becoming — about the people, principles, and purpose that take us beyond the screen, beyond automation, and beyond code.
 
-⸻
+---
 
-Would you like me to now format this into a formal book proposal document (with overview, target audience, competitive analysis, author bio, and sample chapter excerpts) ready for publisher or agent submission?

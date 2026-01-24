@@ -30,6 +30,4 @@ Go beyond code. Build beyond borders. Become beyond yourself.
 
 The continuum awaits.
 
----
-
 **Build ↔ Become**

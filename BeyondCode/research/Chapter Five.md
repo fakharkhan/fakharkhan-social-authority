@@ -3,7 +3,7 @@ Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid
 
 This chapter brings the narrative to a global horizon — how Soft Pyramid transformed its local foundation in Lahore into an international force for innovation, leadership, and education in AI and automation.
 
-⸻
+---
 
 Chapter Five — The Architecture of Impact: Building a Global Legacy from Lahore
 
@@ -15,7 +15,7 @@ But once it rises, the view changes — not just for those who built it, but for
 By 2025, Soft Pyramid stood as more than a company. It had become a movement — a convergence point where entrepreneurship, automation, and empathy met.
 From its humble beginnings in Lahore’s Gulberg district to its collaborations across the U.S., U.K., and GCC, the company had proven that great innovation doesn’t need to be born in Silicon Valley; it can just as powerfully emerge from Silicon Lahore.
 
-⸻
+---
 
 Rooted in Lahore, Reaching the World
 
@@ -32,7 +32,7 @@ From this city of contrasts — tradition and technology, chaos and creativity �
 
 And it did.
 
-⸻
+---
 
 From Clients to Collaborators
 
@@ -53,7 +53,7 @@ In every partnership, the equation was clear:
 
 Trust + Empathy = Global Reach.
 
-⸻
+---
 
 Ecosystem Leadership: The n8n Live Revolution
 
@@ -71,7 +71,7 @@ Attendees learned to connect their tools, automate workflows, and integrate AI w
 
 Through these events, Soft Pyramid blurred the line between company and community — proving that leadership scales through teaching.
 
-⸻
+---
 
 Educational Impact and the Next Generation
 
@@ -87,7 +87,7 @@ Workshops were hosted in partnership with universities and coworking spaces like
 The results were tangible:
 dozens of trainees found remote work, launched startups, or joined Soft Pyramid itself — multiplying the company’s impact far beyond its walls.
 
-⸻
+---
 
 A Global Brand with Local Values
 
@@ -103,7 +103,7 @@ By 2024, the company’s projects spanned industries — MedTech, PropTech, EdTe
 
 Human-first technology is borderless.
 
-⸻
+---
 
 Building the Architecture of Legacy
 
@@ -121,7 +121,7 @@ Just as open-source code accelerates technology, open-source leadership accelera
 “A company’s true value,” Fakhar reflected,
 “is not what it owns, but what it enables.”
 
-⸻
+---
 
 Global Partnerships and Recognition
 
@@ -132,7 +132,7 @@ Its projects were featured in automation showcases and community forums — not 
 
 Each system Soft Pyramid built was a quiet testament that Lahore’s innovation could power the world — that leadership and technology, when rooted in empathy, can cross any border.
 
-⸻
+---
 
 From Leadership to Legacy
 
@@ -147,7 +147,7 @@ Now we’re writing systems that teach others to lead.”
 In a global economy rushing toward artificial intelligence, Soft Pyramid stood for something deeper — authentic intelligence.
 The intelligence to create, connect, and care.
 
-⸻
+---
 
 Closing Reflection
 
@@ -161,6 +161,5 @@ It was about meaning — and our duty to make technology worthy of it.”
 
 And so, as Soft Pyramid continues to shape the future of AI, its greatest contribution may not be the systems it builds, but the leaders it inspires — to think, to feel, and to lead beyond code.
 
-⸻
+---
 
-Would you like me to continue with Chapter Six — “Continuum: The Future of Human-AI Leadership”, the concluding chapter that projects Soft Pyramid’s next decade — blending philosophy, global collaboration, and AI ethics into a vision statement for the future?

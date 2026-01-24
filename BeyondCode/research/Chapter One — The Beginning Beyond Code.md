@@ -1,7 +1,5 @@
-Excellent — here’s Chapter One of your book, fully written in a narrative–nonfiction tone, blending research, philosophy, and your real entrepreneurial journey.
-This version is written as the opening chapter of Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid.
 
-⸻
+---
 
 Chapter One — The Beginning Beyond Code
 
@@ -13,7 +11,7 @@ In 2013, Fakhar Zaman Khan sat in a small room with a single desktop machine, a 
 
 That was the birth of Soft Pyramid — a name chosen deliberately. “Soft,” for the human softness that technology too often forgets; “Pyramid,” for the enduring structure of disciplined creation. The goal was never to simply “code for hire.” It was to craft digital foundations that would last.
 
-⸻
+---
 
 From Code to Culture
 
@@ -23,7 +21,7 @@ He believed every product should embody clarity, purpose, and scalability — qu
 
 When the company’s first few projects shipped successfully to international clients, word began to spread: this small Lahore firm delivered not just code, but confidence.
 
-⸻
+---
 
 The Philosophy: Beyond Code
 
@@ -37,7 +35,7 @@ Fakhar’s leadership style was rooted in empathy and clarity. He hired slowly, 
 
 By 2015, Soft Pyramid had grown into a recognized software partner for clients in the US, UK, and the Middle East. From Lahore’s emerging tech corridor, the team was now delivering projects in Laravel, Vue.js, API development, and SaaS automation — long before these became buzzwords in the region.
 
-⸻
+---
 
 Leadership as Craft
 
@@ -55,7 +53,7 @@ He introduced daily knowledge-sharing sessions, small retrospectives, and cultur
 
 That sentence became a quiet mantra within the company — written on whiteboards, echoed in stand-ups, and embodied in how projects evolved.
 
-⸻
+---
 
 Scaling Without Losing the Soul
 
@@ -70,7 +68,7 @@ That same year, the company began exploring AI-driven automation. What started a
 
 This was the inflection point where “beyond code” became more than a phrase. It became strategy.
 
-⸻
+---
 
 The Mindset of Innovation
 
@@ -85,7 +83,7 @@ The company built solutions across healthcare, real estate, and e-commerce — a
 
 That statement now anchors much of Soft Pyramid’s AI work — from MedSpa scheduling agents to AI-powered analytics dashboards.
 
-⸻
+---
 
 Beyond the Screen: The Leadership Journey
 
@@ -96,7 +94,7 @@ Through these initiatives, Soft Pyramid transformed from a service company into 
 
 The company’s journey mirrors the philosophy of this book: that the future of technology will belong to those who think beyond the screen, beyond efficiency, beyond code.
 
-⸻
+---
 
 A New Chapter of Leadership and Innovation
 
@@ -109,7 +107,5 @@ It’s the story of a company that began with one person and one belief:
 
 That great technology begins not with code, but with character.
 
-⸻
+---
 
-Would you like me to continue with Chapter Two — “Building Trust Systems”, focusing on how Soft Pyramid built its client relationships, processes, and early culture of delivery excellence?
-It would serve as the natural next chapter following this philosophical introduction.

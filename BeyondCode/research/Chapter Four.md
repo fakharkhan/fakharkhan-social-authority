@@ -2,7 +2,7 @@ Excellent — here is the full Chapter Four of your book, continuing the narrati
 
 This chapter focuses on the human side of automation — how leadership, culture, and emotional intelligence shape the future of AI-driven teams.
 
-⸻
+---
 
 Chapter Four — The Human Algorithm: Leading Teams in the Age of AI
 
@@ -18,7 +18,7 @@ Efficiency alone could not sustain innovation. What sustained it was energy, tru
 “AI can optimize performance,” Fakhar often said,
 “but only people can optimize purpose.”
 
-⸻
+---
 
 Redefining Leadership in an Automated World
 
@@ -42,7 +42,7 @@ Teams must see not just outcomes, but reasoning — from code commits to strateg
 
 This framework turned Soft Pyramid into more than a workplace — it became an ecosystem of learning, where curiosity was rewarded as much as results.
 
-⸻
+---
 
 Culture as the Core Codebase
 
@@ -58,7 +58,7 @@ These sessions evolved into the cultural backbone of the company — a living or
 
 Through these open dialogues, the company preserved what many scaling startups lose: psychological safety — the freedom to question, experiment, and even fail publicly.
 
-⸻
+---
 
 Mentorship as Leadership
 
@@ -75,7 +75,7 @@ Soft Pyramid’s mentorship model emphasized three dimensions:
 This model transformed the company’s retention and morale.
 When developers felt like contributors instead of coders, they didn’t just deliver — they designed.
 
-⸻
+---
 
 The Emotional Operating System
 
@@ -93,7 +93,7 @@ Every major interaction, from onboarding a client to launching a feature, includ
 These checkpoints prevented automation from becoming arrogance.
 They reminded everyone that user experience is not just UX — it’s emotional design.
 
-⸻
+---
 
 Leading Through Reflection, Not Reaction
 
@@ -110,7 +110,7 @@ For example:
 These writings circulated through Slack, shaping a shared vocabulary for self-awareness.
 They became the emotional documentation of Soft Pyramid — the invisible source code of leadership.
 
-⸻
+---
 
 Cross-Border Collaboration
 
@@ -123,7 +123,7 @@ He applied the Human Algorithm globally:
 
 This approach made Soft Pyramid a global company with a local conscience — rooted in Lahore’s humility, but fluent in the world’s languages of innovation.
 
-⸻
+---
 
 Resilience in Uncertainty
 
@@ -136,7 +136,7 @@ He reminded the team that empathy was not a soft skill — it was the hardest sk
 
 That year, productivity didn’t just survive — it increased. Because people trusted not just the system, but the leadership philosophy behind it.
 
-⸻
+---
 
 The Leader as Mirror
 
@@ -151,7 +151,7 @@ He saw it as reflection: a mirror that forces humanity to confront its values, b
 “AI will not replace leaders,” he said during an n8n Live event in Dallas.
 “But it will expose which leaders never learned how to listen.”
 
-⸻
+---
 
 Closing Reflection
 
@@ -166,6 +166,5 @@ As the world races toward more automation, Soft Pyramid continues to stand for s
 “Because even in the age of intelligence,” Fakhar writes in his journal,
 “the ultimate innovation will always be human.”
 
-⸻
+---
 
-Would you like me to continue with Chapter Five — “The Architecture of Impact: Building a Global Legacy from Lahore”, which would explore Soft Pyramid’s expansion into global markets, community influence, and long-term vision for AI leadership and education?

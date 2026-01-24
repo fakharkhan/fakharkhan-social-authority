@@ -3,7 +3,7 @@ Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid
 Author: Fakhar Zaman Khan
 Company: Soft Pyramid LLC
 
-⸻
+---
 
 Copyright
 
@@ -11,19 +11,19 @@ Copyright
 All rights reserved.
 ISBN: To be assigned.
 
-⸻
+---
 
 Dedication
 
 For my team at Soft Pyramid and everyone who believes in building beyond code.
 
-⸻
+---
 
 Prologue
 
 Technology stories often begin with tools. This one begins with intention. In 2013, in Lahore, Pakistan, a simple question shaped what would become Soft Pyramid: What lies beyond code?
 
-⸻
+---
 
 Chapter One — The Beginning Beyond Code
 
@@ -35,7 +35,7 @@ Soft Pyramid was founded on a simple belief: technology should serve people, not
 
 The name itself carried intention. Soft for humanity. Pyramid for structure. Together, they represented a company built to last.
 
-⸻
+---
 
 Chapter Two — Building Trust Systems
 
@@ -50,7 +50,7 @@ Trust became an operating system, built on three principles:
 
 These principles transformed Soft Pyramid from a vendor into a partner. Clients returned. Relationships deepened. Reputation grew.
 
-⸻
+---
 
 Chapter Three — Designing for the Future: From Systems to Intelligence
 
@@ -62,7 +62,7 @@ This question drove the company into automation and artificial intelligence. Ear
 
 The philosophy remained unchanged: intelligence without empathy is not innovation.
 
-⸻
+---
 
 Chapter Four — The Human Algorithm: Leading Teams in the Age of AI
 
@@ -78,7 +78,7 @@ Mentorship replaced micromanagement. Reflection replaced reaction. Teams were em
 
 AI optimized performance. Humans optimized purpose.
 
-⸻
+---
 
 Chapter Five — The Architecture of Impact: Building a Global Legacy from Lahore
 
@@ -90,7 +90,7 @@ Events, mentorship programs, and community initiatives turned Soft Pyramid into 
 
 Greatness, it proved, is not a function of geography, but of generosity.
 
-⸻
+---
 
 Chapter Six — Continuum: The Future of Human-AI Leadership
 
@@ -102,7 +102,7 @@ Leadership evolves from command to curation. From authority to awareness.
 
 Technology accelerates. Humanity decides the direction.
 
-⸻
+---
 
 Epilogue — Beyond Code
 
@@ -116,12 +116,12 @@ From a single room in Lahore to a global philosophy of ethical innovation, Soft 
 
 The future belongs to those who build beyond code.
 
-⸻
+---
 
 Author
 
 Fakhar Zaman Khan is the Founder & CEO of Soft Pyramid LLC, an AI and automation consultancy established in 2013 in Lahore, Pakistan. He is a global n8n Creator, community leader, and AI strategist whose work bridges technology and empathy.
 
-⸻
+---
 
 Build ↔ Become

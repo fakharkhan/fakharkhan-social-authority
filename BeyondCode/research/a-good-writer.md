@@ -76,4 +76,3 @@ A great writer for *Beyond Code* is a bridge-builder — fluent in logic, ground
 
 ---
 
-*Would you like me to turn this into a manifesto-style preface or author’s note for the book “Beyond Code”? It would set the tone for readers about what kind of journey the book offers.*

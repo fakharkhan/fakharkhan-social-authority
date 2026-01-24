@@ -91,6 +91,4 @@ The manuscript is written in clean Markdown format, suitable for conversion to a
 3. Apply design styling (see design-guide.md in research folder)
 4. Prepare for publication
 
----
-
 *This manuscript was written based on the knowledge base in the BeyondCode/research folder, synthesizing all available materials into a cohesive, publication-ready narrative.*

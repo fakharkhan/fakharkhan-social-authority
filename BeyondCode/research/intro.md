@@ -1,6 +1,6 @@
 Here is a refined draft of how you might merge the philosophy we outlined into your book title, Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid LLC, along with researched background on Soft Pyramid and its CEO. You can integrate this into your author’s note, prologue, or introductory section as a framing piece.
 
-⸻
+---
 
 Introduction (draft excerpt)
 
@@ -12,7 +12,7 @@ The qualities that make a great book writer of “beyond code” also reflect th
 
 Through leadership profiles, inside-stories, challenges and triumphs at Soft Pyramid, we’ll explore how a team learns to lead, innovate and stay grounded — beyond the code.
 
-⸻
+---
 
 Company Background: Soft Pyramid
 
@@ -35,7 +35,7 @@ Vision & Innovation
 	•	The services list notes modern stacks: Laravel, Vue.js, APIs, SaaS, integration capabilities.  ￼
 	•	The narrative around the company emphasises global delivery from Lahore, scaling via trusted client relationships and technical excellence.  ￼
 
-⸻
+---
 
 Draft Integration: Philosophy × Company Story
 
@@ -48,6 +48,5 @@ Here’s how you can weave the philosophy into the company’s journey:
 	•	Structural discipline: You might structure the book in phases: founding (2013–?), growth (2016–?), global scaling (2020s?), innovation (AI & automation now).
 	•	Lifelong-learner mindset: For Fakhar Khan and the team, technical shifts (PHP → Laravel → AI) underscore that learning never stops.
 
-⸻
+---
 
-If you like, I can prepare a full “Chapter One” draft of the book — setting scene in 2013 Lahore, introducing Fakhar Khan and Soft Pyramid, and tying in the “beyond code” theme as first chapter. Would you like me to do that?

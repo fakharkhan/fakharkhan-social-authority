@@ -3,7 +3,7 @@ Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid
 
 This chapter focuses on the invisible architecture that built Soft Pyramid’s long-term credibility — trust, communication, and delivery systems — blending narrative, leadership insight, and the “Beyond Code” philosophy.
 
-⸻
+---
 
 Chapter Two — Building Trust Systems
 
@@ -18,7 +18,7 @@ The second is relational — trust, reliability, communication — subtle and im
 When Soft Pyramid began signing its first overseas clients, Fakhar Zaman Khan knew that the true challenge wasn’t syntax or scaling. It was trust at distance.
 Lahore and Los Angeles don’t share time zones, but they share expectations — and bridging that gap required more than code reviews or commits. It required a system built on integrity.
 
-⸻
+---
 
 Trust as an Operating System
 
@@ -38,7 +38,7 @@ The team didn’t just respond to tickets; they anticipated frustration. Listeni
 
 These principles transformed Soft Pyramid’s small office into a trust-production machine.
 
-⸻
+---
 
 The Lahore Connection
 
@@ -54,7 +54,7 @@ Soon, repeat clients became the company’s main growth engine. One project in t
 
 Word spread not because of marketing, but because of predictability — a quiet, unadvertised brand built on trust.
 
-⸻
+---
 
 Communication as Architecture
 
@@ -71,7 +71,7 @@ These small details compounded into a brand image: They don’t just code — th
 By 2016, Soft Pyramid was already functioning with the precision of a mature SaaS agency, even while operating from Lahore.
 Clients across time zones felt proximity, not distance.
 
-⸻
+---
 
 Scaling Trust Through Systems
 
@@ -90,7 +90,7 @@ He often described these as “trust systems” — ways to make reliability vis
 This philosophy aligned perfectly with the next evolution of Soft Pyramid — AI-driven automation.
 Even in building machine systems, the foundation remained profoundly human: honesty, rhythm, empathy.
 
-⸻
+---
 
 Crisis and Credibility
 
@@ -108,7 +108,7 @@ The company’s motto quietly evolved:
 
 “We deliver what we promise — and we promise only what we can deliver.”
 
-⸻
+---
 
 From Reputation to Relationships
 
@@ -122,7 +122,7 @@ And it wasn’t luck. It was design.
 
 By building processes that mirrored empathy and predictability, Soft Pyramid transformed the intangible virtue of trust into a repeatable system — a form of organizational software that ran silently beneath every product, proposal, and partnership.
 
-⸻
+---
 
 Lessons Beyond Code
 
@@ -136,7 +136,7 @@ The company’s “Trust Systems” approach became foundational to its later ve
 In hindsight, it was clear that Fakhar hadn’t built just a company.
 He had built a philosophy that merged leadership, technology, and human nature — the essence of Beyond Code.
 
-⸻
+---
 
 Closing Reflection
 
@@ -150,6 +150,5 @@ Trust builds legacies.”
 
 And that is how a small team from Lahore transformed its software craft into a global trust system — one commit, one conversation, and one belief at a time.
 
-⸻
+---
 
-Would you like me to continue with Chapter Three — “Designing for the Future: From Systems to Intelligence”, which would explore Soft Pyramid’s transition into AI, automation, and global innovation leadership (n8n, VAPI, MedSpa, SaaS frameworks, etc.)?

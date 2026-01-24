@@ -1,9 +1,8 @@
-Excellent — here’s Chapter Three of your book:
 Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid
 
 This chapter moves from the foundation of trust to the frontier of transformation — how Soft Pyramid evolved from a software house into a center of AI-driven innovation, automation, and leadership.
 
-⸻
+---
 
 Chapter Three — Designing for the Future: From Systems to Intelligence
 
@@ -19,7 +18,7 @@ After years of architecting systems for others, Fakhar asked himself a question 
 
 That question marked the company’s transition from systems engineering to intelligent automation — from code that executes to code that learns.
 
-⸻
+---
 
 From Web Development to Intelligent Design
 
@@ -34,7 +33,7 @@ Soft Pyramid’s next evolution would close that gap.
 The shift began quietly — with small internal experiments in data classification, email automation, and chatbot design.
 Then, in 2020, the company formalized its AI & Automation Division — a team dedicated to exploring the intersection of workflow automation and human creativity.
 
-⸻
+---
 
 The Birth of the Automation Era
 
@@ -50,7 +49,7 @@ Fakhar saw automation not as a luxury, but as a philosophy of efficiency.
 
 By connecting platforms like Notion, Slack, Google Sheets, and CRMs through n8n, Soft Pyramid began helping clients reimagine how work could flow — not linearly, but intelligently.
 
-⸻
+---
 
 n8n and the Ecosystem of Innovation
 
@@ -63,7 +62,7 @@ For Fakhar, this wasn’t marketing. It was mission.
 
 He believed that the future of leadership lies in orchestration, not control — the ability to connect systems, people, and ideas in a single intelligent flow.
 
-⸻
+---
 
 Designing for Empathy in AI
 
@@ -80,7 +79,7 @@ if it doesn’t feel helpful, it doesn’t belong.”
 From AI email responders to intelligent DevOps dashboards, each innovation carried that human-first signature.
 This wasn’t just about technology — it was about trust at machine speed.
 
-⸻
+---
 
 From Codebases to Cognitive Bases
 
@@ -93,7 +92,7 @@ These projects blurred the lines between developer tools and thinking environmen
 
 In essence, Soft Pyramid had moved beyond building systems to building cognition.
 
-⸻
+---
 
 Leadership in the Age of Intelligence
 
@@ -113,7 +112,7 @@ Developers became data storytellers.
 Project managers became automation architects.
 Clients became collaborators.
 
-⸻
+---
 
 Global Footprints, Local Heart
 
@@ -126,7 +125,7 @@ Workshops and internships focused not only on technical skills but on creative c
 
 That ethos now drives every project — whether building SaaS platforms for U.S. startups or automation systems for Middle Eastern enterprises.
 
-⸻
+---
 
 Innovation as a Journey, Not a Destination
 
@@ -141,7 +140,7 @@ That philosophy became the beating heart of Beyond Code:
 Humanity endures.
 The bridge is leadership.”
 
-⸻
+---
 
 Closing Reflection
 
@@ -152,6 +151,5 @@ Build what matters, learn relentlessly, and always look beyond the screen.
 As the company enters its second decade, its mission is clearer than ever:
 to design systems that think, to lead teams that care, and to inspire a generation that believes in going Beyond Code.
 
-⸻
+---
 
-Would you like me to continue with Chapter Four — “The Human Algorithm: Leading Teams in the Age of AI”, which focuses on how Soft Pyramid nurtures culture, collaboration, and creativity amid automation?

@@ -1,6 +1,5 @@
-Excellent — here’s your confirmed design brief for the print-ready publication edition of Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid.
 
-⸻
+---
 
 ✅ Final Design Brief
 
@@ -11,7 +10,7 @@ We’ll use your company’s brand look as the visual backbone:
 	•	Secondary tones: soft gray for body text, faint pyramid-line motif in chapter headers.
 	•	Logo integration: your Soft Pyramid logo on title and back cover (please upload vector or PNG version before generation).
 
-⸻
+---
 
 2. Typography — Custom Brand Style
 
@@ -20,7 +19,7 @@ You mentioned “2`” — so we’ll use the second pairing:
 	•	Body text: Open Sans Regular
 This combination is print-safe, highly readable, and matches the modern-tech-meets-philosophy tone.
 
-⸻
+---
 
 3. Visual Elements (all included)
 
@@ -30,7 +29,7 @@ This combination is print-safe, highly readable, and matches the modern-tech-mee
 ✅ Author signature page — stylized “FZ Khan / Soft Pyramid LLC”
 ✅ Back cover — synopsis + author bio with subtle gold border frame
 
-⸻
+---
 
 4. Output Format
 	•	Primary: Print-ready PDF for Amazon KDP / IngramSpark
@@ -39,7 +38,7 @@ This combination is print-safe, highly readable, and matches the modern-tech-mee
 	•	Fonts embedded and bleed included
 	•	Front & back cover incorporated
 
-⸻
+---
 
 Next Step
 
@@ -48,7 +47,7 @@ To generate the final formatted, cover-integrated edition I need:
 	2.	(Optional) Author signature or stylized initials image for the signature page.
 	3.	(Optional) Short author tagline or quote for the back cover (one line — e.g., “Empathy is the highest form of intelligence.”)
 
-⸻
+---
 
 Once you upload the logo (and optional items), I’ll produce the print-ready PDF layout with branded design, fully prepared for Amazon KDP or IngramSpark submission.
 

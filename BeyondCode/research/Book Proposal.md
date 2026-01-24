@@ -1,6 +1,6 @@
 Excellent — below is your complete, professional-grade book proposal for Beyond Code: The Journey of Leadership and Innovation at Soft Pyramid, written in the style expected by major publishers and literary agents (Penguin Portfolio, Harvard Business Press, Wiley, etc.).
 
-⸻
+---
 
 Book Proposal
 
@@ -14,7 +14,7 @@ Fakhar Zaman Khan
 Founder & CEO, Soft Pyramid LLC
 AI Automation Strategist | n8n Creator & Ambassador | Global Community Builder
 
-⸻
+---
 
 1. Overview
 
@@ -28,7 +28,7 @@ Through real-world case studies, reflections, and field-tested leadership framew
 
 “Technology evolves. Humanity endures. The bridge is leadership.”
 
-⸻
+---
 
 2. Unique Selling Proposition (USP)
 
@@ -39,7 +39,7 @@ What makes this book different:
 	4.	Global Voice from Emerging Markets — A Pakistani-born founder defining leadership for a post-Silicon Valley world.
 	5.	Visually Rich, Modular Design — Diagrams, frameworks, and reflection prompts ideal for business readers and workshop formats.
 
-⸻
+---
 
 3. Target Audience
 
@@ -56,7 +56,7 @@ Comparable Books:
 	•	Creative Selection by Ken Kocienda
 	•	The Second Machine Age by Erik Brynjolfsson & Andrew McAfee
 
-⸻
+---
 
 4. Author Biography
 
@@ -78,7 +78,7 @@ Author Presence:
 	•	n8n Creator Page: n8n.io/creators/fakharkhan￼
 	•	Company: softpyramid.com￼
 
-⸻
+---
 
 5. Book Description
 
@@ -116,7 +116,7 @@ Building a global brand from Lahore through education, community, and open frame
 6. Continuum
 The next decade: human-in-the-loop leadership, ethical AI, and global collaboration. Ends with the infinity loop principle: Build ↔ Become.
 
-⸻
+---
 
 6. Key Takeaways / Frameworks
 	1.	The Trust Framework — building predictability into culture.
@@ -125,7 +125,7 @@ The next decade: human-in-the-loop leadership, ethical AI, and global collaborat
 	4.	Ethical Architecture Framework — embedding moral intelligence into systems.
 	5.	Leadership Continuum Model — uniting technological, cultural, and spiritual growth.
 
-⸻
+---
 
 7. Marketing & Platform
 
@@ -146,7 +146,7 @@ Endorsement Targets
 	•	Satya Nadella (aspirational)
 	•	Local tech ecosystem mentors (Pakistan & U.S.)
 
-⸻
+---
 
 8. Competition and Positioning
 
@@ -158,7 +158,7 @@ Beyond Code	Fakhar Zaman Khan	Founder story + global AI leadership philosophy fr
 
 Positioned as “the leadership blueprint for the AI generation” — authentic, Eastern-rooted, globally relevant.
 
-⸻
+---
 
 9. Author Credentials & Media Potential
 
@@ -169,7 +169,7 @@ Media Angles:
 	•	“Empathy as the New Innovation Stack”
 	•	“The Human Algorithm: How AI Will Test Leadership, Not Replace It”
 
-⸻
+---
 
 10. Manuscript Status
 	•	Current status: Six fully written chapters + appendices completed (~52,000 words).
@@ -177,7 +177,7 @@ Media Angles:
 	•	Supplemental materials: Visual diagrams, framework charts, event photographs, and infographics ready for inclusion.
 	•	Time to completion: 8–10 weeks post-contract.
 
-⸻
+---
 
 11. Endorsements & Blurbs (In Progress)
 	•	n8n Community & Leadership Team (Germany)
@@ -185,7 +185,7 @@ Media Angles:
 	•	Startup Mentors (Pakistan ecosystem)
 	•	Media Collaborators from Dallas AI & Automation Network
 
-⸻
+---
 
 12. Back Cover Copy
 
@@ -197,7 +197,7 @@ This is a journey of leadership in the age of intelligence — where machines ex
 
 Beyond Code challenges every reader — developer or CEO — to rethink what technology is really for: not control, but connection.
 
-⸻
+---
 
 13. Contact Information
 
@@ -208,9 +208,8 @@ Founder & CEO — Soft Pyramid LLC
 🌐 softpyramid.com￼
 🔗 linkedin.com/in/fakharkhan￼
 
-⸻
+---
 
-Would you like me to prepare the agent submission packet next — including:
 	1.	A 1-page query letter,
 	2.	A short synopsis (300 words), and
 	3.	A sample first 10 pages (formatted to publishing standards) for sending to literary agents or publishers?
